@@ -9,9 +9,6 @@ This project helps farmers and agricultural enthusiasts make informed decisions 
 - Analyzes crop suitability based on upcoming weather conditions
 - Visualizes predictions with easy-to-understand graphs and tables
 
-## How It Works
-![Workflow Diagram](https://upload.wikimedia.org/wikipedia/commons/5/54/Weather_forecasting_process.png)
-A simple illustration of how weather forecasting and AI predictions work together.
 
 ## Dependencies
 Before getting started, ensure you have the following installed:
@@ -43,10 +40,6 @@ cd weather-crop-lstm
 2. Run the Jupyter Notebook or open it in Google Colab.
 3. Set your latitude and longitude to match your location.
 4. Train the model and observe the predictions.
-
-## Sample Output
-### Temperature Prediction Plot
-![Temperature Forecast](https://upload.wikimedia.org/wikipedia/commons/8/89/Time_series_temperature_prediction_example.png)
 
 ### Crop Suitability Table
 | Crop   | Suitable to Sow | Suitable to Harvest |
