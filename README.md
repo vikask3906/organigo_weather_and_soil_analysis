@@ -54,8 +54,6 @@ cd weather-crop-lstm
 | Rice   | ✅ Yes        | ❌ No            |
 | Wheat  | ❌ No         | ✅ Yes           |
 
-## 📄 License
-This project is open-source and available under the **MIT License**. Feel free to tweak and improve it! 🔧
 
 ## 🙌 Want to Contribute?
 We’d love your help! 🤝 Fork the repo, open an issue, or submit a pull request to make this project even better. Happy coding! 🚀
